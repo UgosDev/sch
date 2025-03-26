@@ -1,2 +1,0 @@
-WORKDIR /app
-COPY . /app
