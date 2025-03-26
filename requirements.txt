@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pytesseract
+python-multipart
+pdf2image
+Pillow
+pyzbar
+imagehash
+opencv-python-headless
+loguru
